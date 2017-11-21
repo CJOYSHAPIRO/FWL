@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-20_1447",
-    "currentPage": "index.html",
+    "currentPage": "involved.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -533,6 +533,9 @@
               }
             },
             ".btn-social, .mbr-section-title ": {
+              "color": "#ffffff"
+            },
+            ".btn-social, .mbr-section-title  B": {
               "color": "#ffffff"
             }
           },
