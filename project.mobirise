@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-20_1447",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -31,7 +31,9 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 53,
-    "versionPublish": "4.4.1"
+    "versionPublish": "4.6.7",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
