@@ -1750,9 +1750,17 @@ body {
   flex-basis: auto;
 }
 .cid-qBy9LvqewT {
-  background-image: url("../../../assets/images/hudson-hintze-183959-2000x1174.jpg");
+  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
 }
 .cid-qBy9LvqewT H1 {
+  color: #ffffff;
+}
+.cid-qBy9LvqewT .mbr-text,
+.cid-qBy9LvqewT .mbr-section-btn {
+  color: #149dcc;
+}
+.cid-qBy9LvqewT .mbr-text,
+.cid-qBy9LvqewT .mbr-section-btn B {
   color: #ffffff;
 }
 .cid-qByiO2cdSG {
@@ -2466,6 +2474,20 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-qXCqrqu430 {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/dyslexia-3014152-1920-1920x1280.jpg");
+}
+.cid-qXCqrqu430 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qXCqrqu430 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qXCqrqu430 H2 {
+  color: #ffffff;
+}
 .cid-qByE9a23lX {
   background-color: #ffffff;
 }
@@ -2485,6 +2507,9 @@ body {
 }
 .cid-qByE9a23lX P {
   color: #232323;
+}
+.cid-qXCt1ubQFd {
+  background-image: url("../../../assets/images/wall-837313-1920-1920x1280.jpg");
 }
 .cid-qByJTGbSEM .navbar {
   background: #ffffff;
@@ -3302,6 +3327,23 @@ body {
 }
 .cid-qByvFEeqsZ .navbar-collapse {
   flex-basis: auto;
+}
+.cid-qXChTVxIGn {
+  padding-top: 120px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-1080x1080.jpg");
+}
+.cid-qXChTVxIGn .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qXChTVxIGn .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qXChTVxIGn H2 {
+  color: #ffffff;
+}
+.cid-qXChTVxIGn .mbr-section-subtitle B {
+  color: #ffffff;
 }
 .cid-qBywhOWJPO {
   background-color: #ffffff;
